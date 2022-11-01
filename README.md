@@ -16,8 +16,8 @@ Https://github.com/search?q=Cors+PWA
 Tài nguyên về CORS Push Notification cho web
 Https://github.com/search?q=Push+Notification
 
-Tài nguyên về đối tượng khởi tạo
-Https://github.com/search?q=JavaScript+Shadow
+Tài nguyên về chỉnh sửa hình ảnh 
+Https://github.com/search?q=Image+Editor
 
 Tài Nguyên về intent url trên Website
 Https://github.com/search?q=intent+url
