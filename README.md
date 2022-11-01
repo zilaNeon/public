@@ -16,6 +16,6 @@ Https://github.com/search?q=Cors+PWA
 Tài nguyên về đối tượng khởi tạo
 Https://github.com/search?q=JavaScript+Shadow
 
-Tài Nguyên về cheme trên ứng dụng Android trong Website
-Https://github.com/search?q=Url+Cheme
+Tài Nguyên về intent url trên Website
+Https://github.com/search?q=intent+url
 
