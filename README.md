@@ -22,6 +22,6 @@ Https://github.com/search?q=Image+Editor
 Tài Nguyên về intent url trên Website
 Https://github.com/search?q=intent+url
 
-Nguồn M.U.G.E.N Game mà chúng tôi muốn xây dựng 
+Nguồn M.U.G.E.N Game mà chúng tôi yêu thích 
 https://github.com/Tatayecorp/demo_mugenJS
 
