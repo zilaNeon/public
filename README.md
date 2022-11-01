@@ -22,6 +22,9 @@ Https://github.com/search?q=Image+Editor
 Tài Nguyên về intent url trên Website
 Https://github.com/search?q=intent+url
 
+Tài nguyên về XMLHttpRequest
+Https://github.com/search?q=XMLHttpRequest
+
 Nguồn M.U.G.E.N Game mà chúng tôi yêu thích 
 https://github.com/Tatayecorp/demo_mugenJS
 
