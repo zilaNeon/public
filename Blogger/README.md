@@ -1,2 +1,0 @@
-
-Một số về Blogger 
