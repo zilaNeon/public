@@ -1,4 +1,4 @@
-Đây là mã HTML mà tôi đang sử dụng để nhún vào các trang xa hội, như là Facebook và Twitter 
+Đây là nguồn mã HTML mà tôi đang sử dụng để nhún vào các trang xa hội, như là Facebook và Twitter.  
 
 &lt;!-- Phù hợp với màn hình --&gt;
 <meta content='width=device-width, initial-scale=1' name='viewport'/&gt;
