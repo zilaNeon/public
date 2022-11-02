@@ -8,11 +8,14 @@
 
 &lt;!-- Chrome, Firefox OS and Opera --&gt;
 &lt;meta content='#eeeeee' name='theme-color'/&gt;
+
 &lt;!-- Windows Phone --&gt;
 &lt;meta content='#eeeeee' name='msapplication-navbutton-color'/&gt;
 &lt;meta content='blogger' name='generator'/&gt;
+
 &lt;!-- Ngôn ngữ --&gt;
 &lt;meta content='vi, vi_vn' property='og:locale'/&gt;
+
 &lt;!-- Thể Loại Trang --&gt;
 &lt;meta content='article' property='og:type'/&gt;
 &lt;!-- Nhún vào xã hội, như Facebook --&gt;
