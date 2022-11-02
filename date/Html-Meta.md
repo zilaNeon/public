@@ -18,6 +18,7 @@
 
 &lt;!-- Thể Loại Trang --&gt;
 &lt;meta content='article' property='og:type'/&gt;
+
 &lt;!-- Nhún vào xã hội, như Facebook --&gt;
 &lt;meta content=' Url Trang cập nhật ' property='og:url'/&gt;
 &lt;meta content=' Tiêu đề trang ' property='og:title'/&gt;
