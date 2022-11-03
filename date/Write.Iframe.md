@@ -3,21 +3,23 @@
 Đầu tiên tôi khởi tạo một iframe bằng phương pháp createElement của document mà bạn có thể thấy, kế tiếp tôi dùng đối tượng body với phương pháp appendChild để chèn đối tượng iframe trên body của html và kế tiếp tôi nhập đối tượng contentDocument của iframe và dùng phương pháp write của đối tượng document để viết, nhưng niếu bạn không mở một đối tượng contentWindo từ phương pháp open nó có ném lỗi. Đây là đoạn mã rất tuyệt để viết các trang tạm và thêm các đoạn mã.
 
 &lt;script&gt;
-<code>var doc = document; <br />
-var iframe = doc.createElement("iframe"); <br /><br />
-iframe.width="320";<br />
-iframe.height="480"; <p/>
 
-/* add an iframe element to the document */<br />
-doc.body.appendChild(iframe); <br /><br />    
-/* Add object in iframe elements */<p/>    
+var doc = document; 
+var iframe = doc.createElement("iframe");
+iframe.width="320";
+iframe.height="480"; 
 
-var iwin = iframe.contentWindow;<br />    
-var idoc = iframe.contentDocument; <p/> 
+/* add an iframe element to the document */ 
+doc.body.appendChild(iframe); 
+    
+/* Add object in iframe elements */    
+var iwin = iframe.contentWindow;
+var idoc = iframe.contentDocument; 
   
-idoc.open();<br />     
-idoc.close(); <br />     
+idoc.open();
+idoc.close();    
 
-/* Write method in iframe document */<br />     
-idoc.write("Game Play"); // uotput</code>
+/* Write method in iframe document */     
+idoc.write("Game Play"); // uotput
+
 &lt;/script&gt;
