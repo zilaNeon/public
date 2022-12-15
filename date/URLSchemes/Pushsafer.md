@@ -1,4 +1,4 @@
-Được tìm thấy trong ứng dụng Pushsafer
+Pushsafer giúp việc nhận thông báo đẩy trong thời gian thực trên thiết bị di động Android hoặc Windows, iPhone ở chế độ mua. Được tìm thấy trong ứng dụng Pushsafer. 
 
 > **pushsafer://**
     
