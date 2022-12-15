@@ -28,4 +28,4 @@ Chạy phím tắt với đầu vào chuỗi văn bản
 
 Chạy phím tắt với đầu vào từ khay nhớ tạm
 
-> shortcuts://run-shortcut?name=Your%20Shortcuts%20Name&input=clipboard
+`shortcuts://run-shortcut?name=Your%20Shortcuts%20Name&input=clipboard`
