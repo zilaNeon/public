@@ -9,7 +9,6 @@
     &lt;action android:name="android.intent.action.MAIN" /&gt;
     &lt;category android:name="android.intent.category.LAUNCHER" /&gt;
   &lt;/intent-filter&gt;
-
   &lt;intent-filter android:label="filter_react_native"&gt;
     &lt;action android:name="android.intent.action.VIEW" /&gt;
     &lt;category android:name="android.intent.category.DEFAULT" /&gt;
