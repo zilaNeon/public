@@ -7,10 +7,8 @@
     android:theme="@style/Theme.Consumer.DoorDash"&gt;
         &lt;intent-filter&gt;
             &lt;action android:name="android.intent.action.VIEW" /&gt;
-     
             &lt;category android:name="android.intent.category.BROWSABLE" /&gt;
-            &lt;category android:name="android.intent.category.DEFAULT" /&gt;
-      
+            &lt;category android:name="android.intent.category.DEFAULT" /&gt;    
             &lt;data
                 android:host="www.doordash.com"
                 android:pathPrefix="/store"
