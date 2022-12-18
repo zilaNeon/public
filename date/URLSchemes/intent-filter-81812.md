@@ -1,6 +1,6 @@
 Làm cách nào để mở một loại tệp nhất định trong hoạt động của Android?
 
-> Lưu ý loại tài liệu này để xem
+> Lưu ý loại tài liệu này để xem bộ lọc ý định 
 
 ### Điều này sẽ ném lỗi mã
 
