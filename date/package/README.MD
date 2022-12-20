@@ -4,4 +4,4 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 
 > Lưu ý đây là một đống góp tài liệu trên cộng đồng GitHub, để nhằm một đích phát triển intent lược đồ
 
-[Dịch vụ lời nói của Google](</com.google.android.tts.xml>) 
+[com.google.android.tts Dịch vụ lời nói của Google](</date/package/com.google.android.tts.xml>) 
