@@ -33,3 +33,5 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [com.google.android.setupwizard Ứng dụng trình hướng dẫn thiết lập của Google](</date/package/com.google.android.setupwizard.xml>)
 
 [com.google.android.apps.restore Ứng dụng (restore) khôi phục của Google](</date/package/com.google.android.apps.restore.xml>)
+
+[com.google.android.tag Ứng dụng (Tag) thẻ của google](</date/package/com.google.android.tag.xml>)
