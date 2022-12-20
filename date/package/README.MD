@@ -25,3 +25,5 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [com.google.android.partnersetup Dịch vụ thiết lập đối tác của Google](</date/package/com.google.android.partnersetup.xml>)
 
 [com.google.android.modulemetadata Dịch vụ siêu dữ liệu mô-đun của Google](</date/package/com.google.android.modulemetadata.xml>)
+
+[com.google.android.apps.maps Ứng dụng (Maps) bản đồ của Google](</date/package/com.google.android.apps.maps.xml>)
