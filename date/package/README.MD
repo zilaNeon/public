@@ -21,3 +21,5 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [com.google.android.keep Ứng dụng (keep) ghi chú của google](</date/package/com.google.android.keep.xml>)
 
 [com.google.android.videos Ứng dụng phát video của Google TV](</date/package/com.google.android.videos.xml>)
+
+[com.google.android.partnersetup Dịch vụ thiết lập đối tác của Google](</date/package/com.google.android.partnersetup.xml>)
