@@ -9,3 +9,5 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [com.google.android.gms Dịch vụ Google Play](</date/package/com.google.android.gms.xml>)
 
 [com.google.android.apps.wellbeing Dịch vụ phúc lợi kỹ thuật số của Google](</date/package/com.google.android.apps.wellbeing.xml>)
+
+[com.google.android.apps Dịch văn bản của google](</date/package/com.google.android.apps.translate.xml>)
