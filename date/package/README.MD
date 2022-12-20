@@ -44,4 +44,6 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 
 [com.google.android.documentsui Ứng dụng Tệp của Google](/date/package/com.google.android.documentsui.xml)
 
+[com.google.android.syncadapters.contacts Ứng dụng Đồng bộ hóa danh sách liên hệ của Google](</date/package/com.google.android.syncadapters.contacts.xml>)
+
 
