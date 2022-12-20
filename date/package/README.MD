@@ -28,4 +28,4 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 
 [com.google.android.apps.maps Ứng dụng (Maps) bản đồ của Google](</date/package/com.google.android.apps.maps.xml>)
 
-[com.google.android.apps.tachyon Dịch vụ trao đổi nội dung Meet với bạn bè của Google](</date/package/com.google.android.apps.tachyon.xml>)
+[com.google.android.apps.tachyon Dịch vụ trao đổi nội dung và cuộc gọi video Meet với bạn bè Google](</date/package/com.google.android.apps.tachyon.xml>)
