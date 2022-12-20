@@ -17,3 +17,5 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [com.google.android.apps.photos Thư viện lưu hình ảnh của google](</date/package/com.google.android.apps.photos.xml>)
 
 [com.google.android.gm Dịch vụ hộp thư điện tử (Gmail) của google](/date/package/com.google.android.gm.xml>)
+
+[com.google.android.keep Ứng dụng (keep) ghi chú của google](</date/package/com.google.android.keep.xml>)
