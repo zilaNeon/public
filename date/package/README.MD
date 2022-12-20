@@ -46,4 +46,6 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 
 [com.google.android.syncadapters.contacts Ứng dụng Đồng bộ hóa danh sách liên hệ của Google](</date/package/com.google.android.syncadapters.contacts.xml>)
 
-[com.google.android.deskclock ứng dụng đồng hồ của Google](</date/package/com.google.android.deskclock.xml>)
+[com.google.android.deskclock Ừng dụng đồng hồ của Google](</date/package/com.google.android.deskclock.xml>)
+
+[com.google.android.syncadapters.calendar Ứng dụng Đồng bộ hóa lịch của Google](</date/package/com.google.android.syncadapters.calendar.xml>)
