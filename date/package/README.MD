@@ -49,3 +49,6 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [com.google.android.deskclock Ừng dụng đồng hồ của Google](</date/package/com.google.android.deskclock.xml>)
 
 [com.google.android.syncadapters.calendar Ứng dụng Đồng bộ hóa lịch của Google](</date/package/com.google.android.syncadapters.calendar.xml>)
+
+[com.google.android.permissioncontroller Ứng dụng trình điều khiển quyền của Google](</date/package/com.google.android.permissioncontroller.xml>)
+
