@@ -3,6 +3,8 @@ Bộ lưu trữ Android Manifest tệp xml cho việc test lược đồ từ m�
 [Lưu Ý Lược đồ url ứng dụng cho website & Blog](<https://zilaneon.blogspot.com/2022/12/UrlScheme.html>)
 
 > Lưu ý đây là một đống góp tài liệu trên cộng đồng GitHub, để nhằm một đích phát triển intent lược đồ
+
+
 [com.google.android.googlequicksearchbox công cụ tìm kiếm](</data/package/com.google.android.googlequicksearchbox.xml>)
 
 [com.google.android.apps.docs Dịch vu quản lý và lưu trữ của google Drive](</date/package/com.google.android.apps.docs.xml>)
