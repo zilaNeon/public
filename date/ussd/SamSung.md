@@ -6,6 +6,7 @@ SamSung Secret Code
 Hiển thị số IMEI
 
 
+
 *#07#
 
 Kiểm tra RGB, Bộ thu, độ rung, cảm ứng, loa, cảm biến camera, phiên bản phần mềm, v.v.
