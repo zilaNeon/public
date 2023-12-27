@@ -1,8 +1,7 @@
 SamSung Secret Code
 ===================
 
-*#06#
------
+<strong>*#06#</strong>
 Hiển thị số IMEI
 
 
