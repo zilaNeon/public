@@ -1,17 +1,17 @@
 Oppo secret code 
 ================
-<p></p>
+
 <b>*#06#</b> <br>
 Hiển thị số IMEI
-</p>
-<p>
+
+
 <b>*#07#</b> <br>
 Kiểm tra RGB, Bộ thu, độ rung, cảm ứng, loa, cảm biến camera, phiên bản phần mềm, v.v.
-</p>
-<p>
-<b>*#*#4986*2650468#8#*</b>
+
+
+<b>*#*#4986*2650468#8#*</b> <br>
 Thông tin phần mềm ngày gọi PDA, Điện thoại, Phần cứng, RF
-</p>
+
 ##778 <br>
 Xem menu EPST
 
