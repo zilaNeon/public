@@ -1,1 +1,1 @@
-Đây là một số về Twitter 
+Tôi là một fan Twitter 
