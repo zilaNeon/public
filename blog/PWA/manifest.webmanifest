@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "BookVL Blogspot",
-  "short_name": "BookVL",
-  "start_url": "index.html"
+  "name": "zilaNeon",
+  "short_name": "zilaNeon",
+  "start_url": "https://zilaneon.github.io/public/blog/index.html"
 }
