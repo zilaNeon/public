@@ -13,6 +13,15 @@ body {
  margin:0px;
 }
 #field {
+ position: relative; 
+ max-width: 480px; 
+ width: 80%; 
+ margin-top: 40%; 
+ margin-bottom: 100px; 
+ margin:0 auto; 
+ z-index: 99; 
+ display: none; 
+ visibility: visible !important;
 } 
 #error {position: relative; top:-5px; left:-5px; }
   
@@ -29,7 +38,7 @@ body {
   <span>Một sự kiện thêm PWA trên màn hình</span></div>
  </div>
  <div style="clear:both;"></div>
-<div id="field" style="position: relative; max-width: 480px; width: 90%; margin-top: 40%; margin-bottom: 100px; margin:0 auto; z-index: 99; display: none; visibility: visible !important;">
+<div id="field">
 <fieldset> <legend>zilaNeon PWA </legend>
 <button class="add-button" style="display: block; margin: 5px auto; padding: 10px; font-size: 16px;">Thêm PWA Trên Màn Hình</button> 
 <div style="margin:10px auto"> zilaNeon PWA là dễ dàng để bạn lướt trang zilaNeon.</p> Một Sự kiện thêm ứng dụng lối tắc trên màn hình</div>
@@ -46,8 +55,8 @@ Khi Thêm PWA sẽ xuất trên màn hình chính của bạn. PWA là một ứ
  <div id="footers" style="background-color:#49a6fa; width:100%; height:200px; font-color:#fffff; margin: 50px 0 0 0;"> 
   <div id="info-pwa" style="position: relative; top:-20px;left:36px;height:80px;width:300px">
 
-   <svg id="logo-pwa" style="width:48px;height:48px;text-align: center;float:left; background-color:#ffffff;border: 2px solid #49a6fa;display: block"> 
-  <image src="logo-pwa.svg" id="icon-pwa" xlink:href="logo-pwa.svg" style="width:36px; height:36px; display:block; padding: 10px 10px; margin: 0;filter: invert(63%) sepia(95%) saturate(2421%) hue-rotate(183deg) brightness(97%) contrast(101%);"> 
+   <svg id="logo-pwa" style="width:52px;height:52px;text-align: center;float:left; background-color:#ffffff;border: 2px solid #49a6fa;display: block"> 
+  <image src="logo-pwa.svg" id="icon-pwa" xlink:href="logo-pwa.svg" style="width:36px; height:36px; display:block; margin-left: 5px;filter: invert(63%) sepia(95%) saturate(2421%) hue-rotate(183deg) brightness(97%) contrast(101%);"> 
   </image>
   </svg> 
   
@@ -59,7 +68,7 @@ Khi Thêm PWA sẽ xuất trên màn hình chính của bạn. PWA là một ứ
   </div>
    <div style="clear:both;"></div> 
    
-   <div id="pwa-link" style="color:#ffffff">
+   <div id="pwa-link" style="color:#ffffff;position: relative; margin: 0 auto">
     <h3>Liên kết liên quan đến PWA (Ứng dụng web tiến bộ) </h3>
  <a title="Ứng dụng web tiến bộ trên web.dev" href="https://web.dev/explore/progressive-web-apps?hl=vi" style="color:#ffffff">web dev</a> || 
     <a title="Ứng dụng web tiến bộ trên mozilla" href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps" style="color:#ffffff">mozilla</a> || 
