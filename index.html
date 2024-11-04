@@ -60,9 +60,9 @@ Khi Thêm PWA sẽ xuất hiện trên màn hình chính của thiết bị.
   </svg> 
   </div> 
    
-   <div id="pwa-text" style="margin: 0 0 0 -5px;position: relative;"><b style="color: #49a6fa">Ứng dụng web tiến bộ</b>
+   <div id="pwa-text" style="margin: 0 0 0 -10px;position: relative;"><b style="color: #49a6fa">Ứng dụng web tiến bộ</b>
    <p>
-    <a title="Ứng dụng web tiến bộ" href="https://zilaneon.blogspot.com/search?q=Progressive+web+app#post-body-7838094704366451421" style="color:#ffffff">Hiểu về PWA với zilaNeon Blog</a>
+    <a title="Ứng dụng web tiến bộ" href="https://zilaneon.blogspot.com/search?q=Progressive+web+app" style="color:#ffffff">Hiểu về PWA với zilaNeon Blog</a>
    </p>
    </div> 
   </div>
@@ -83,7 +83,7 @@ Khi Thêm PWA sẽ xuất hiện trên màn hình chính của thiết bị.
 
 <script>if ('serviceWorker' in navigator) {
   navigator.serviceWorker
-    .register('sw.js')
+    .register('/public/blog/PWA/sw.js')
     .then(() => { console.log('Service Worker Registered'); });
 }
 
