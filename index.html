@@ -24,7 +24,7 @@ body {
  visibility: visible !important;
 } 
 #error {position: relative; top:-5px; left:-5px; }
-  
+#addPWA {display: none}
 
  
 
@@ -40,7 +40,7 @@ body {
  <div style="clear:both;"></div>
 <div id="field">
 <fieldset> <legend>zilaNeon PWA </legend>
-<button class="add-button" style="display: block; margin: 5px auto; padding: 10px; font-size: 16px;">Thêm PWA Trên Màn Hình</button> 
+<button id="addPWA" class="add-button" style="display: block; margin: 5px auto; padding: 10px; font-size: 16px;">Thêm PWA Trên Màn Hình</button> 
 <div style="margin:10px auto"> zilaNeon PWA là dễ dàng để bạn lướt trang zilaNeon blog.
 </p> Đây là một Sự kiện thêm ứng dụng tiếng bộ trên màn hình</div>
 </fieldset> 
@@ -93,7 +93,7 @@ Khi Thêm PWA sẽ xuất hiện trên màn hình chính của thiết bị.
 let deferredPrompt;
 const addBtn = document.querySelector('.add-button');
 const anload = document.getElementById("eloading"); 
-const fielde = document.getElementById("field"); 
+const fielde = document.getElementById("addPWA"); 
 
 window.addEventListener('beforeinstallprompt', (e) => {
 
