@@ -3,7 +3,7 @@ Chưa có mục tiêu nào cho các ứng dụng web
 
 Không có chi phí nào cho việc chia sẻ mã nguồn
 
-chúng đang chạy theo https://developer.mozilla.org
+Đang chạy theo https://developer.mozilla.org
 
 Nội dung đang quan tâm trên Github: 
 
